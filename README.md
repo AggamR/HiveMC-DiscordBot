@@ -13,3 +13,8 @@ pip install requests==2.23.0
 Then, simply run the bot via terminal/cmd:
 Linux:```python3 workerbee.py```
 Windows:```py workerbee.py```
+
+
+
+twitter: @Aggam_R
+UwU
